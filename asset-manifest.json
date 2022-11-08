@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Quiz-with-trivia-question-database/static/css/main.6f3a943c.css",
+    "main.js": "/Quiz-with-trivia-question-database/static/js/main.953197ff.js",
+    "static/media/main-img.jpeg": "/Quiz-with-trivia-question-database/static/media/main-img.25e1f58ea563f180103d.jpeg",
+    "index.html": "/Quiz-with-trivia-question-database/index.html",
+    "main.6f3a943c.css.map": "/Quiz-with-trivia-question-database/static/css/main.6f3a943c.css.map",
+    "main.953197ff.js.map": "/Quiz-with-trivia-question-database/static/js/main.953197ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f3a943c.css",
+    "static/js/main.953197ff.js"
+  ]
+}
