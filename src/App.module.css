@@ -44,3 +44,17 @@
 .downloadIndo {
   font-size: 3vw;
 }
+
+@media (max-width: 480px) {
+  .score {
+    font-size: 12vw;
+  }
+  
+  .generalTitle {
+    font-size: 16vw;
+  }
+
+  .downloadIndo {
+    font-size: 6vw;
+  }
+}

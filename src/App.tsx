@@ -53,6 +53,8 @@ function App() {
       quizType,
     );
 
+    console.log(quizType)
+
     setQuestions(newQuestions);
     setScore(0);
     setUserAnswers([]);
